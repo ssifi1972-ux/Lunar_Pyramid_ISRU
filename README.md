@@ -1,5 +1,9 @@
 # 🌕 Lunar Pyramid ISRU: Zero-Operating-Cost Water Production
 
+<p align="center">
+  <img src="Lunar_Tunnel.png" alt="Lunar Greenhouse Concept" width="80%">
+</p>
+
 <h2 align="center">Project Concept Art</h2>
 
 <p align="center">
