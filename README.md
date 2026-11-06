@@ -74,8 +74,17 @@ This technology is not limited to the Moon. It solves a major terrestrial proble
 *   **Phase 2 (Years 4-6):** Pilot landing (Solar-only).
 *   **Phase 3 (Years 7-10):** Scaling up + Kilopower reactor (24/7 operations).
 
-## 🤝 Open Source & Call for Contributions
-This project is open for scientific review. We welcome scrutiny of physical assumptions. **We are not asking for funding — we are asking for scientific criticism that builds or breaks the idea.**
+<h2 align="center">Project Concept Art</h2>
+
+<p align="center">
+  <img src="pyramide lune.jpg" alt="Lunar Pyramid Concept" width="80%">
+</p>
+
+<p align="center">
+  <img src="Serre lunaire et initiative de l'eau.png" alt="Lunar Greenhouse Concept" width="80%">
+</p>
+
+---
 
 ---
 *Note: This project was developed for the NASA Space Apps Challenge. All calculations are based on published NASA LRO datasets and ISRU research.*
