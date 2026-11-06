@@ -9,8 +9,7 @@
 *   **Email:** ssifi1972@gmail.com
 *   **Specialization:** Senior Building Technician | QHSE Supervisor
 *   **Experience:** 30 Years of Experience in Construction, Quality, Health, Safety, and Environment (QHSE)
-*   **Challenge Category:** [Insert the exact challenge name from NASA's website here]
-
+*   **Challenge Category:** 
 ---
 
 ## 📖 Project Abstract (The News)
