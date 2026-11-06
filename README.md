@@ -1,4 +1,4 @@
-# 🌕 Lunar Pyramid ISRU: Zero-Operating-Cost Water Production
+
 
 # 🌕 Lunar Pyramid ISRU: Zero-Operating-Cost Water Production
 **A Sustainable Water Plant & Commercial Anti-Static Solution**
