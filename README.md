@@ -79,3 +79,5 @@ This project is open for scientific review. We welcome scrutiny of physical assu
 
 ---
 *Note: This project was developed for the NASA Space Apps Challenge. All calculations are based on published NASA LRO datasets and ISRU research.*
+![Lunar Facility Concept](pyramide lune.jpg)
+![Lunar Greenhouse Concept](Serre lunaire et initiative de l'eau.png)
