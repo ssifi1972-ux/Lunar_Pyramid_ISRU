@@ -92,15 +92,7 @@ This technology is not limited to the Moon. It solves a major terrestrial proble
 *   **Phase 2 (Years 4-6):** Pilot landing (Solar-only).
 *   **Phase 3 (Years 7-10):** Scaling up + Kilopower reactor (24/7 operations).
 
-<h2 align="center">Project Concept Art</h2>
 
-<p align="center">
-  <img src="pyramide lune.jpg" alt="Lunar Pyramid Concept" width="80%">
-</p>
-
-<p align="center">
-  <img src="Serre lunaire et initiative de l'eau.png" alt="Lunar Greenhouse Concept" width="80%">
-</p>
 
 ---
 
