@@ -1,9 +1,7 @@
 # 🌕 Lunar Pyramid ISRU: Zero-Operating-Cost Water Production
 **A Sustainable Water Plant & Commercial Anti-Static Solution**
 
----![Lunar Facility Concept](pyramide lune.jpg)
-![Lunar Greenhouse Concept](Serre lunaire et initiative de l'eau.png)
-
+---
 
 ## 👤 Participant Information
 *   **Project Name:** Lunar Pyramid ISRU (In-Situ Resource Utilization)
