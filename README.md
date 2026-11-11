@@ -110,6 +110,9 @@ streamlit run app.py
 3. **Demers, C., et al. (2002):** *Natural coral exoskeleton as a bone graft substitute: A review.* Bio-Medical Materials and Engineering, 12(1), 15–35.
 4. **Díaz-Castro, J., et al. (2011):** *Goat milk consumption improves calcium and iron bioavailability and bone turnover.* Journal of Dairy Science.
 5. **Al-Farsi, M. A., & Lee, C. Y. (2008):** *Nutritional and functional properties of dates: A review.* Critical Reviews in Food Science and Nutrition.
+
+### 🌐 Live Interactive Application
+Try the **Bio-Space Bone** simulation and kidney-safety guard directly in your browser:
 https://lunarpyramidisru-2tqgwkjavwr2uz6vyjlaue.streamlit.app
 
 
