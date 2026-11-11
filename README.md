@@ -85,6 +85,31 @@ To combat electrostatic discharge (ESD) on the Moon, we developed an Anti-Static
 - **Phase 1 (Years 2-3):** Prototype testing on Earth (JSC-1A).
 - **Phase 2 (Years 4-6):** Pilot landing (Solar-only).
 - **Phase 3 (Years 7-10):** Scaling up + Kilopower reactor (24/7 operations).
-
 ---
+
+## 🚀 Bio-Space Bone: Post-Mission Bone Rehabilitation & Mineral Safety System
+
+![Bio-Space Bone Architecture](bio%20sif27.jpg)
+
+### 📌 Overview
+**Bio-Space Bone** is a biomedical and computational module integrated into the **Lunar_Pyramid_ISRU** ecosystem for the **NASA Space Apps Challenge**. It addresses spaceflight-induced bone density loss (1%–2% per month) and renal stone risks (hypercalciuria) through a two-phase approach:
+
+* **Phase 1 (Lunar Environment):** Chemically converted marine coral (**Hydroxyapatite**) serves as an emergency biocompatible scaffold for bone grafting.
+* **Phase 2 (Earth Rehabilitation):** A hybrid protocol combining functional nutrition (**Goat Milk & Dates**), targeted supplements (Calcium Citrate, Vitamins D3 & K2), and 2 hours of daily resistance exercise.
+* **Algorithmic Safety Guard (`app.py`):** A Streamlit web application that simulates 12-month Bone Mineral Density (BMD) recovery curves while enforcing a strict daily calcium threshold (< 2,000 mg) to protect astronaut kidney health.
+
+### 💻 Running the Rehabilitation App
+```bash
+pip install streamlit pandas
+streamlit run app.py
+```
+
+### 📚 Scientific References
+1. **NASA Human Research Program (HRP):** *Risk of Bone Fracture due to Spaceflight-induced Changes to Bone.*
+2. **Sibonga, J. D., et al. (2007):** *Recovery of spaceflight-induced bone loss: Bone mineral density after long-duration missions as fitted with an exponential function.* Bone, 41(6), 973–978.
+3. **Demers, C., et al. (2002):** *Natural coral exoskeleton as a bone graft substitute: A review.* Bio-Medical Materials and Engineering, 12(1), 15–35.
+4. **Díaz-Castro, J., et al. (2011):** *Goat milk consumption improves calcium and iron bioavailability and bone turnover.* Journal of Dairy Science.
+5. **Al-Farsi, M. A., & Lee, C. Y. (2008):** *Nutritional and functional properties of dates: A review.* Critical Reviews in Food Science and Nutrition.
+
+
 *Note: This project was developed for the NASA Space Apps Challenge. All calculations are based on published NASA LRO datasets and ISRU research.*
